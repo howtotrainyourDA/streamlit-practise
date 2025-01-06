@@ -5,7 +5,7 @@ import random
 
 
 
-st.title("Superhero Generator")
+st.title("🦸 Superhero Generator 🦸")
 
 name = st.text_input("Enter your name:")
 st.write(f"Hello, {name}!")
