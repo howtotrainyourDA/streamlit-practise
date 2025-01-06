@@ -3,6 +3,10 @@ import pandas as pd
 import numpy as np
 import random
 
+
+
+st.title("Superhero Generator")
+
 name = st.text_input("Enter your name:")
 st.write(f"Hello, {name}!")
 
