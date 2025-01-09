@@ -28,7 +28,7 @@ superpower = st.selectbox("Select your superpower:", [
     "Immortality", "Atomic Manipulation", "Dream Walking", "Memory Manipulation",
     "Light Control", "Shadow Control", "Plant Control", "Metal Manipulation",
     "Quantum Powers", "Time Stop", "Dimensional Travel", "Power Mimicry",
-    "Regeneration", "Force Push/Pull", "Astral Projection", "Power Nullification"
+    "Regeneration", "Force Push/Pull", "Astral Projection", "Power Nullification", "Protein-Bio-Synthese"
 ])
 
 st.markdown(f"""
